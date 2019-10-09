@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CetExplorer (In Progress)
 
 
@@ -20,3 +21,6 @@ Start the program. All dependencies will be automatically downloaded
 `npm start`
 
 
+=======
+# cetBrowser
+>>>>>>> 201fafa93c324596109fa9ae6989815f5847473c
